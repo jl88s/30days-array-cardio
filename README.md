@@ -1,0 +1,3 @@
+#30 Days of JavaScript - Array Cardio Day 1 ###Wednesday June, 24, 2020
+
+This exercise started pretty simple to what I have learned in the past, everything made sense. Though, once it started getting into messing with the DOM elements, I started to slightly get confused. Seeing how to apply different and shorter techniques with the Ternary operator helped me understand how I can compress the code. 
